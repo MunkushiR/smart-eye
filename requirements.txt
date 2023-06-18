@@ -1,0 +1,9 @@
+Python 				--python.org
+
+OpenCV2 			--pip install cv2
+Numpy 				--pip install numpy
+Pyplot Module of Matplotlib		--pip install matplotlib
+Pprint				
+Playsound				--pip install playsound
+Gtts				--pip install gtts
+Streamlit				--pip install streamlit
